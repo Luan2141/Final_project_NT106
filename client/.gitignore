@@ -1,0 +1,3 @@
+netflop/bin/**/*.*
+packages/**/*.*
+.vs/**/*.*
